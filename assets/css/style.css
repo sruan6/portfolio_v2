@@ -1,0 +1,17 @@
+.nav {
+	position: sticky;
+	top: 0;
+	right: 0;
+	width: 100%;
+	background-color: blue;
+	min-height: 4rem;
+}
+.nav li{
+	margin-top: 10px;
+}
+section {
+	height: 100vh;
+}
+#Project {
+	background-color: gray;
+}
